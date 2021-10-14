@@ -1,0 +1,2 @@
+# Blind-Stick
+Social Innovation project on blind stick for         the blind people of Kuttar Ashram     Mangalore   This is an Social Innovation project specially build for the blind people of Kuttar Ashram Mangalore Blind stick is an innovative stick designed for visually disabled people for improved navigation.  We here propose an advanced blind stick that allows visually challenged people to navigate with ease using advanced technology.
